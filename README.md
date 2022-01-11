@@ -1,6 +1,6 @@
-# Sports bet
+## Sports bet
 
-### Technologies and tools
+## Technologies and tools
 * ReactJS
 * Redux
 * React Router
